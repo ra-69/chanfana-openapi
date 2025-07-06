@@ -6,7 +6,7 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"compatibility_date": "2025-04-01",
 	"main": "src/index.ts",
-	"name": "small-frost-1bc2",
+	"name": "chanfana-openai",
 	"upload_source_maps": true,
 	"observability": {
 		"enabled": true
